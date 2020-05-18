@@ -1,0 +1,7 @@
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\bin\Debug\Humans.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\bin\Debug\Humans.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\bin\Debug\Humans.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\obj\Debug\Humans.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\obj\Debug\Humans.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\obj\Debug\Humans.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\Humans\obj\Debug\Humans.pdb

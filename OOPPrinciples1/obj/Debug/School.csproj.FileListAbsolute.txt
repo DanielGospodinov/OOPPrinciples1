@@ -1,0 +1,7 @@
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\bin\Debug\OOPPrinciples1.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\bin\Debug\OOPPrinciples1.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\bin\Debug\OOPPrinciples1.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\obj\Debug\OOPPrinciples1.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\OOPPrinciples1\obj\Debug\OOPPrinciples1.pdb
