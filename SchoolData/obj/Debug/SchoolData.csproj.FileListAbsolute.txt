@@ -5,3 +5,10 @@ C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPP
 C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\SchoolData\obj\Debug\SchoolData.csproj.CoreCompileInputs.cache
 C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\SchoolData\obj\Debug\SchoolData.exe
 C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\Homework\OOPPrinciples1\SchoolData\obj\Debug\SchoolData.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\bin\Debug\SchoolData.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\bin\Debug\SchoolData.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\bin\Debug\SchoolData.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\obj\Debug\SchoolData.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\obj\Debug\SchoolData.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\obj\Debug\SchoolData.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOPPrinciples1 Homework\SchoolData\obj\Debug\SchoolData.pdb

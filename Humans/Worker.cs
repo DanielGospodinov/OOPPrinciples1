@@ -11,8 +11,10 @@ namespace Humans
         public double WeekSalary { get; set; }
         const int weekHours = 40;
 
-        public Worker(string firstName, string lastName, double weekSalary) : base(firstName, lastName)
+        public Worker(string firstName, string lastName, double weekSalary)
         {
+            FirtstName = firstName;
+            LastName = lastName;
             this.WeekSalary = weekSalary;
         }
 

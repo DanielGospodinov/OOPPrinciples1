@@ -10,8 +10,10 @@ namespace Humans
     {
         double grade;
 
-        public Student(string firstName, string lastName, double grade) : base(firstName, lastName)
+        public Student(string firstName, string lastName, double grade)
         {
+            FirtstName = firstName;
+            LastName = lastName;
             this.Grade = grade;
         }
 

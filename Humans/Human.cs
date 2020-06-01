@@ -11,11 +11,11 @@ namespace Humans
         private string firstName = string.Empty;
         private string lastName = string.Empty;
 
-        public Human(string firstName, string lastName)
-        {
-            this.firstName = firstName;
-            this.lastName = lastName;
-        }
+        //public Human(string firstName, string lastName)
+        //{
+        //    this.firstName = firstName;
+        //    this.lastName = lastName;
+        //}
         public string FirtstName
         {
             get { return this.firstName; }
